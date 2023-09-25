@@ -1,5 +1,7 @@
 # React Components Basics
 
+
+
 ## Learning Goals
 
 - Understand what a React component is and what it can be used for
